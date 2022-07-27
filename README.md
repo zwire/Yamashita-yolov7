@@ -1,6 +1,6 @@
 # YOLO v7 on Google Colaboratory
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/husty530/Yamashita-yolox/blob/master/YOLOv7-Training.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/husty530/Yamashita-yolov7/blob/master/YOLOv7-Training.ipynb)
 
 当リポジトリではLinux環境(Google Colab)でのビルドを想定して、簡単にセットアップができるようにPyTorchのYOLOv7ソースコードを配置しています。  
 ブラウザさえあれば誰でも動かせますので、以下の手順でやってみましょう。  
